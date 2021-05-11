@@ -21,6 +21,9 @@ header {
 header img {
     width: 100%;
 }
+.girassol_img, .titulo_girassol{
+    display: inline-block
+}
 .header-container {
     display: flex;
     
